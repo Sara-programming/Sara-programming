@@ -3,8 +3,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+YOUR+NAME;Frontend+Developer+%7C+PHP+%26+MySQL;AI+Website+Builder;Poster+%26+Video+Ads+Creator" alt="Typing SVG" />
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=6c63ff&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=6c63ff" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Sara-programming&label=Profile+Views&color=6c63ff&style=for-the-badge" alt="views" />
+  <img src="https://img.shields.io/github/followers/Sara-programming?style=for-the-badge&logo=github&color=6c63ff" alt="followers" />
 </p>
 
 </div>
@@ -67,25 +67,25 @@ I'm a **Frontend Developer** from Pakistan 🇵🇰 who builds fast, modern, goo
 
 | Project | Description | Tech |
 |---|---|---|
-| 🔗 [Project One](https://github.com/YOUR_USERNAME/project-one) | Short description of what it does | `HTML` `CSS` `JS` |
-| 🔗 [Project Two](https://github.com/YOUR_USERNAME/project-two) | Short description of what it does | `PHP` `MySQL` |
-| 🔗 [Project Three](https://github.com/YOUR_USERNAME/project-three) | Short description of what it does | `AI` `Frontend` |
+| 🔗 [Project One](https://github.com/Sara-programming/project-one) | Short description of what it does | `HTML` `CSS` `JS` |
+| 🔗 [Project Two](https://github.com/Sara-programming/project-two) | Short description of what it does | `PHP` `MySQL` |
+| 🔗 [Project Three](https://github.com/Sara-programming/project-three) | Short description of what it does | `AI` `Frontend` |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sara-programming&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sara-programming&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Sara-programming&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sara-programming&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
